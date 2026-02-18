@@ -1,0 +1,21 @@
+{
+  "employees": [
+    {
+      "id": "7b37",
+      "Firstname": "",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalStatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipCode": ""
+      }
+    }
+  ]
+}
